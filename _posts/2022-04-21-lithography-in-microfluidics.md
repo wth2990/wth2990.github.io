@@ -75,14 +75,14 @@ Microfluidics was fabricated via soft-lithography. A silicon wafer will be pre-f
 
 Hydrogel is a bio-compatible material. Which is used as the resin for photolithography on a chip. Normally, the hydrogel is fabricated in liquid state, which consists of lots of monomer, which has vast double bonds. Once the photo-initiator react with the monomer, it starts to form polymer with other monomers. And it is a chain reaction, therefore, a very long polymer could be formed in the end. Many polymers form meshwork structures, which was the essence of polymerized hydrogel. The polymerized hydrogel can be absorbed by water, that was called swelled state.
 
-Here I have used the photo-polymerizable hydrogel, which modified from gelatin, called Gelatin methacryloyl (GelMA), for the photo-lithography experiments. It takes 7 days to fabricate one batch of GelMA. Basically, the fabricating procedure is to dissolve gelatin into water, add methacryloyl into gelatin solution, a chemical phenomenon called "graft" will happen, that will replace the amine group originally within gelatin molecules, and then dialysis the 7 days. The dialysis is to remove the unreacted methacryloyl, which is toxic. The dialysis is the left figure below. For better storage, the GelMA precusory will be freeze-dried. The middle figure is the freeze-dried GelMA. The right figure shows the way to store the GelMA, which was frozen under -20&#176;C.
+Here I have used the photo-polymerizable hydrogel, which modified from gelatin, called Gelatin methacryloyl (GelMA), for the photo-lithography experiments. It takes 7 days to fabricate one batch of GelMA. Basically, the fabricating procedure is to dissolve gelatin into water, add methacryloyl into gelatin solution, a chemical phenomenon called "graft" will happen, that will replace the amine group originally within gelatin molecules, and then dialysis the 7 days. The dialysis is to remove the unreacted methacryloyl, which is toxic. The dialysis is shown in the left figure below. For better storage, the GelMA precusory will be freeze-dried. The middle figure is shown the freeze-dried GelMA. The right figure shows the way to store the GelMA, which was frozen under -20&#176;C.
 
 ![GelMA synthesis](/assets/microfluidics/lithography/photo_procedure_GelMA_Synthesis.png){: width="500" }
 
 <br><br>
 
 
-I used rheometer to characterize its mechanical property, specially the storage and loss modulus.
+I used rheometer to characterize its mechanical property, specifically the storage and loss modulus.
 
 ![rheometer measure](/assets/microfluidics/lithography/photo_rheometer_test.png){: width="500" }
 

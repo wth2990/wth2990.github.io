@@ -5,3 +5,22 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/*
+table {
+    width: 70%;
+    text-align: center;
+}*/
+
+table tr:nth-child(n) {
+    background: white;
+    border:hidden;
+    vertical-align: top;
+}
+.noBorder {
+    border:hidden !important;
+}
+/*
+table tr:nth-child(2) { background: orange; }
+table tr:nth-child(3) { background: green; }
+*/
