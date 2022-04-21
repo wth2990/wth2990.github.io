@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: microfluidics
 title: Microfluidics
 permalink: /microfluidics/
 ---
-This is microfluidics...
+This page includes my previous work in microfluidics.
