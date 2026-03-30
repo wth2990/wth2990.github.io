@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -24,7 +23,7 @@ layout: default
     <ul class="post-list">
       <table>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in site.tags.Bioprinting -%}
+      {%- for post in site.categories.biotechnique -%}
       <li>
         <!--disable the date display-->
         <!--span class="post-meta">{{ post.date | date: date_format }}</span-->
@@ -35,7 +34,7 @@ layout: default
                   {{ post.title | escape }}
                 </a>
               </td>
-              <td>
+              <td class="noBorder">
                 <img src="{{ post.imageLink }}" width="200">
               </td>
             </tr>

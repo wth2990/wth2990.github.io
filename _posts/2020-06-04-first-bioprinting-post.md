@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create a lumen structure using bioprinting"
-tags: Bioprinting
+tags: Microfluidics
 imageLink: "/assets/bioprinting/lumen_chip.jpeg"
 ---
 

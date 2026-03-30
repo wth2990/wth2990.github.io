@@ -50,7 +50,7 @@ minima:
 header_pages:
  - about.md
  - microfluidics.md
- - bioprinting.md
+ - biotechnique.md
  - my_blog.md
 
 # Build settings
