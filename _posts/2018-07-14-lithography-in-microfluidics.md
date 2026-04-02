@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lithography in microfluidics chip"
-categories: misc
+categories: microfluidics
 tags: Microfluidics
 imageLink: "/assets/microfluidics/lithography/lithography_in_chip.png"
 ---

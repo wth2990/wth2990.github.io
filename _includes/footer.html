@@ -31,7 +31,11 @@
     <div class="social-links">
       {%- include social.html -%}
     </div>
-
   </div>
-
+<ul>
+  {% assign all_categories = site.posts | map: "categories" | flatten | uniq %}
+  {% for category in all_categories %}
+    <li>{{ category }}</li>
+  {% endfor %}
+</ul>
 </footer>

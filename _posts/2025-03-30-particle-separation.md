@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design microfluidics for particle separations"
-categories: misc
+categories: microfluidics
 tags: Microfluidics
 imageLink: "/assets/microfluidics/particle_separation/DLD concepts.png"
 date: 2025-07-05 22:30:00 +0200
