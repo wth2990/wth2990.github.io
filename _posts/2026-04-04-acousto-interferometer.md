@@ -3,7 +3,7 @@ layout: post
 title: "Acousto-interferometer device"
 categories: microfluidics   # ⚠️ 必须小写并与 layout 中一致
 tags: piezoceramic, Microfluidics
-imageLink: "/assets/acousto_interferometer/chip_with_capillary.jpg"
+imageLink: "/assets/acousto_interferometer/chip_with_capillary.JPG"
 ---
 
 I won’t go into too much detail because the instrument I am currently developing is patent-protected. Although I am not the patent holder, I signed a confidentiality agreement when I joined the company, so I cannot disclose the key technologies. However, I can give a brief overview since the underlying principles have already been published. I am not the first postdoc responsible for this project; before me, a PhD graduate also worked on developing this instrument.
