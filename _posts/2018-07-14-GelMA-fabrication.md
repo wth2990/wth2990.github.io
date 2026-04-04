@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GelMA fabrication"
+title: "GelMA fabrication and characterization"
 categories: biotechnique   # ⚠️ 必须小写并与 layout 中一致
 tags: GelMA, hydrogel
 imageLink: "/assets/microfluidics/lithography/photo_procedure_GelMA_Synthesis.png"
@@ -67,3 +67,64 @@ DoF was measured by ninhydrin assay for four GelMA batches with varying methacry
 </p>
 
 
+<!--
+## Hydrogels
+
+水凝膠是一種生物相容性材料，在晶片光刻中作為樹脂使用。它們最初為液態，並含有具有反應性雙鍵的單體。在光引發劑與紫外光的作用下，這些單體會透過鏈式反應進行聚合，形成交聯的網狀結構，該結構可以吸收水分並發生膨脹。
+
+在本研究中，我使用了可光聚合的明膠甲基丙烯醯（GelMA）。每一批 GelMA 的合成大約需要 7 天。其製備流程包括：將明膠溶於水中，加入甲基丙烯酸酐，使甲基丙烯醯基接枝到明膠分子上，並透過透析去除未反應的甲基丙烯酸酐。之後將 GelMA 前驅物進行冷凍乾燥，並儲存在 -20°C：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/photo_procedure_GelMA_Synthesis.png" alt="GelMA synthesis" width="500">
+  <br>
+  <em>Figure 1：GelMA 的合成流程。</em>
+</p>
+
+水凝膠薄片在 PDMS 模具中形成，並在紫外光下進行聚合：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/photo_mechanical_test_mold.png" alt="hydrogel forming pad" width="300">
+  <br>
+  <em>Figure 2：在 PDMS 模具中形成的水凝膠薄片。</em>
+</p>
+
+水凝膠的機械性質透過流變儀進行表徵：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/photo_rheometer_test.png" alt="rheometer measure" width="500">
+  <br>
+  <em>Figure 3：用於測量儲能模數與損耗模數的流變儀實驗設置。</em>
+</p>
+
+對不同前驅物濃度的 GelMA 批次測量其儲能模數。結果如預期，濃度越高，儲能模數越大：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/Result_2.png" alt="storage modulus" width="500">
+  <br>
+  <em>Figure 4：不同濃度 GelMA 水凝膠的儲能模數。</em>
+</p>
+
+平台模數（10 Hz 以下）保持穩定，並與 GelMA 濃度呈正相關：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/Result_3.png" alt="plateau modulus" width="500">
+  <br>
+  <em>Figure 5：10 Hz 以下頻率範圍內 GelMA 的平台模數。</em>
+</p>
+
+**官能化程度（DoF）** 用於量化在接枝過程中，明膠中的胺基被甲基丙烯醯基取代的比例：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/DoF.png" alt="schematic of DoF" width="400">
+  <br>
+  <em>Figure 6：GelMA 官能化程度（DoF）的示意圖。</em>
+</p>
+
+透過茚三酮測試（ninhydrin assay）測量四批不同甲基丙烯酸酐含量的 GelMA，其結果顯示所有批次均具有較高的 DoF（>80%）：
+
+<p align="center">
+  <img src="/assets/microfluidics/lithography/Result_1.png" alt="ninhydrin assay result" width="750">
+  <br>
+  <em>Figure 7：茚三酮測試結果顯示所有 GelMA 批次均具有高 DoF。</em>
+</p>
+-->
